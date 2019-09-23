@@ -1,0 +1,113 @@
+
+21-09-2019 13:41:36.1569073296.6489 [172.68.51.236][5d8628][info] Parent plugin start installation!
+21-09-2019 13:41:36.1569073296.66 [172.68.51.236][5d8628][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.4.0
+21-09-2019 13:41:36.1569073296.741 [172.68.51.236][5d8628][info] Parent plugin installation complete!
+21-09-2019 13:41:55.1569073315.6359 [172.68.51.236][5d8628][info] Try to create backup directory. Backup dir: (/home/paunovski.dev/public_html/wp-content/uploads/wio_backup)
+21-09-2019 13:42:55.1569073375.4198 [172.68.51.236][5d8628][info] Start bulk optimization process! Scope: media-library
+21-09-2019 13:42:55.1569073375.4269 [172.68.51.236][5d8628][info] Try to create backup directory. Backup dir: (/home/paunovski.dev/public_html/wp-content/uploads/wio_backup/2019/09)
+21-09-2019 13:42:55.1569073375.4307 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1884557.jpg) to a remote server (server_4).
+21-09-2019 13:42:56.1569073376.9393 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:42:56.1569073376.9401 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1884557-150x150.jpg) to a remote server (server_4).
+21-09-2019 13:42:57.1569073377.8454 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:42:57.1569073377.846 [172.68.51.236][5d8628][error] Unable to replace original image with new as failed to download 
+21-09-2019 13:42:57.1569073377.8461 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1884557-300x200.jpg) to a remote server (server_4).
+21-09-2019 13:42:58.1569073378.9938 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:42:58.1569073378.9944 [172.68.51.236][5d8628][error] Unable to replace original image with new as failed to download 
+21-09-2019 13:43:01.1569073381.0766 [172.68.51.236][5d8628][info] End bulk optimization process! Scope: media-library. Remain: 9
+21-09-2019 13:43:01.1569073381.2219 [172.68.51.236][5d8628][info] Start bulk optimization process! Scope: media-library
+21-09-2019 13:43:01.1569073381.2276 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1612043.jpg) to a remote server (server_4).
+21-09-2019 13:43:01.1569073381.8386 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:01.1569073381.8393 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1612043-150x150.jpg) to a remote server (server_4).
+21-09-2019 13:43:02.1569073382.4156 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:02.1569073382.4162 [172.68.51.236][5d8628][error] Unable to replace original image with new as failed to download 
+21-09-2019 13:43:02.1569073382.4163 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1612043-300x212.jpg) to a remote server (server_4).
+21-09-2019 13:43:03.1569073383.1245 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:03.1569073383.125 [172.68.51.236][5d8628][error] Unable to replace original image with new as failed to download 
+21-09-2019 13:43:04.1569073384.7937 [172.68.51.236][5d8628][info] End bulk optimization process! Scope: media-library. Remain: 8
+21-09-2019 13:43:05.1569073385.0352 [172.68.51.236][5d8628][info] Start bulk optimization process! Scope: media-library
+21-09-2019 13:43:05.1569073385.0418 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1605347.jpg) to a remote server (server_4).
+21-09-2019 13:43:05.1569073385.843 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:05.1569073385.8438 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1605347-150x150.jpg) to a remote server (server_4).
+21-09-2019 13:43:06.1569073386.4676 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:06.1569073386.4682 [172.68.51.236][5d8628][error] Unable to replace original image with new as failed to download 
+21-09-2019 13:43:06.1569073386.4684 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1605347-300x300.jpg) to a remote server (server_4).
+21-09-2019 13:43:07.1569073387.1964 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:07.1569073387.197 [172.68.51.236][5d8628][error] Unable to replace original image with new as failed to download 
+21-09-2019 13:43:08.1569073388.8884 [172.68.51.236][5d8628][info] End bulk optimization process! Scope: media-library. Remain: 7
+21-09-2019 13:43:09.1569073389.0639 [172.68.51.236][5d8628][info] Start bulk optimization process! Scope: media-library
+21-09-2019 13:43:09.1569073389.0702 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1613082.jpg) to a remote server (server_4).
+21-09-2019 13:43:09.1569073389.7992 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:09.1569073389.7998 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1613082-150x150.jpg) to a remote server (server_4).
+21-09-2019 13:43:10.1569073390.5563 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:10.1569073390.5568 [172.68.51.236][5d8628][error] Unable to replace original image with new as failed to download 
+21-09-2019 13:43:10.1569073390.557 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1613082-300x300.jpg) to a remote server (server_4).
+21-09-2019 13:43:11.1569073391.1734 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:11.1569073391.174 [172.68.51.236][5d8628][error] Unable to replace original image with new as failed to download 
+21-09-2019 13:43:12.1569073392.7405 [172.68.51.236][5d8628][info] End bulk optimization process! Scope: media-library. Remain: 6
+21-09-2019 13:43:12.1569073392.9538 [172.68.51.236][5d8628][info] Start bulk optimization process! Scope: media-library
+21-09-2019 13:43:12.1569073392.9601 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1578943.jpg) to a remote server (server_4).
+21-09-2019 13:43:13.1569073393.819 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:13.1569073393.8197 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1578943-150x150.jpg) to a remote server (server_4).
+21-09-2019 13:43:14.1569073394.3839 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:14.1569073394.3846 [172.68.51.236][5d8628][error] Unable to replace original image with new as failed to download 
+21-09-2019 13:43:14.1569073394.3847 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1578943-212x300.jpg) to a remote server (server_4).
+21-09-2019 13:43:14.1569073394.9673 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:14.1569073394.9678 [172.68.51.236][5d8628][error] Unable to replace original image with new as failed to download 
+21-09-2019 13:43:16.1569073396.6107 [172.68.51.236][5d8628][info] End bulk optimization process! Scope: media-library. Remain: 5
+21-09-2019 13:43:16.1569073396.837 [172.68.51.236][5d8628][info] Start bulk optimization process! Scope: media-library
+21-09-2019 13:43:16.1569073396.8458 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1613080.jpg) to a remote server (server_4).
+21-09-2019 13:43:17.1569073397.5983 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:17.1569073397.5989 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1613080-150x150.jpg) to a remote server (server_4).
+21-09-2019 13:43:18.1569073398.1577 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:18.1569073398.1583 [172.68.51.236][5d8628][error] Unable to replace original image with new as failed to download 
+21-09-2019 13:43:18.1569073398.1584 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1613080-300x300.jpg) to a remote server (server_4).
+21-09-2019 13:43:18.1569073398.7543 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:18.1569073398.7549 [172.68.51.236][5d8628][error] Unable to replace original image with new as failed to download 
+21-09-2019 13:43:20.1569073400.3422 [172.68.51.236][5d8628][info] End bulk optimization process! Scope: media-library. Remain: 4
+21-09-2019 13:43:20.1569073400.5767 [172.68.51.236][5d8628][info] Start bulk optimization process! Scope: media-library
+21-09-2019 13:43:20.1569073400.5827 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1514407.jpg) to a remote server (server_4).
+21-09-2019 13:43:21.1569073401.5325 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:21.1569073401.5331 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1514407-150x150.jpg) to a remote server (server_4).
+21-09-2019 13:43:22.1569073402.1625 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:22.1569073402.1632 [172.68.51.236][5d8628][error] Unable to replace original image with new as failed to download 
+21-09-2019 13:43:22.1569073402.1633 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/1514407-300x300.jpg) to a remote server (server_4).
+21-09-2019 13:43:22.1569073402.7722 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:22.1569073402.7728 [172.68.51.236][5d8628][error] Unable to replace original image with new as failed to download 
+21-09-2019 13:43:24.1569073404.4716 [172.68.51.236][5d8628][info] End bulk optimization process! Scope: media-library. Remain: 3
+21-09-2019 13:43:24.1569073404.6248 [172.68.51.236][5d8628][info] Start bulk optimization process! Scope: media-library
+21-09-2019 13:43:24.1569073404.6304 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/logo.png) to a remote server (server_4).
+21-09-2019 13:43:25.1569073405.2776 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:25.1569073405.7773 [172.68.51.236][5d8628][info] End bulk optimization process! Scope: media-library. Remain: 2
+21-09-2019 13:43:26.1569073406.3075 [172.68.51.236][5d8628][info] Start bulk optimization process! Scope: media-library
+21-09-2019 13:43:26.1569073406.3129 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/ME-beautiful-e1569072002581.jpg) to a remote server (server_4).
+21-09-2019 13:43:27.1569073407.1675 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:27.1569073407.1684 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/ME-beautiful-e1569072002581-150x150.jpg) to a remote server (server_4).
+21-09-2019 13:43:27.1569073407.7966 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:27.1569073407.7972 [172.68.51.236][5d8628][error] Unable to replace original image with new as failed to download 
+21-09-2019 13:43:27.1569073407.7974 [172.68.51.236][5d8628][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/ME-beautiful-e1569072002581-300x291.jpg) to a remote server (server_4).
+21-09-2019 13:43:28.1569073408.3831 [172.68.51.236][5d8628][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:28.1569073408.3836 [172.68.51.236][5d8628][error] Unable to replace original image with new as failed to download 
+21-09-2019 13:43:30.1569073410.0605 [172.68.51.236][5d8628][info] End bulk optimization process! Scope: media-library. Remain: 1
+21-09-2019 13:43:30.1569073410.2675 [172.68.51.236][5d8629][info] Start bulk optimization process! Scope: media-library
+21-09-2019 13:43:30.1569073410.2726 [172.68.51.236][5d8629][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/ME-beautiful-770x1024-1.jpg) to a remote server (server_4).
+21-09-2019 13:43:31.1569073411.0748 [172.68.51.236][5d8629][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:31.1569073411.0757 [172.68.51.236][5d8629][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/ME-beautiful-770x1024-1-150x150.jpg) to a remote server (server_4).
+21-09-2019 13:43:31.1569073411.7147 [172.68.51.236][5d8629][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:31.1569073411.7152 [172.68.51.236][5d8629][error] Unable to replace original image with new as failed to download 
+21-09-2019 13:43:31.1569073411.7153 [172.68.51.236][5d8629][info] Preparing to upload a file (/home/paunovski.dev/public_html/wp-content/uploads/2019/09/ME-beautiful-770x1024-1-300x286.jpg) to a remote server (server_4).
+21-09-2019 13:43:32.1569073412.2747 [172.68.51.236][5d8629][info] File successfully uploaded to remote server (server_4).
+21-09-2019 13:43:32.1569073412.2754 [172.68.51.236][5d8629][error] Unable to replace original image with new as failed to download 
+21-09-2019 13:43:34.1569073414.0013 [172.68.51.236][5d8629][info] End bulk optimization process! Scope: media-library. Remain: 0
+21-09-2019 13:43:44.1569073424.0949 [172.68.51.236][5d8629][info] Parent plugin start deactivation!
+21-09-2019 13:43:44.1569073424.0951 [172.68.51.236][5d8629][info] Parent plugin deactivation complete!
+22-09-2019 06:03:41.1569132221.6653 [162.158.210.14][5d870e][info] Parent plugin start installation!
+22-09-2019 06:03:41.1569132221.6753 [162.158.210.14][5d870e][info] Plugin installation: try create plugin tables.
+																	-DB Version: 2
+																	-Plugin Version in DB: 1.4.0
+																	-Current Plugin Version: 1.4.0
+22-09-2019 06:03:41.1569132221.6754 [162.158.210.14][5d870e][info] Parent plugin installation complete!
+22-09-2019 09:22:09.1569144129.8284 [162.158.210.14][5d873d][info] Parent plugin start deactivation!
+22-09-2019 09:22:09.1569144129.8285 [162.158.210.14][5d873d][info] Parent plugin deactivation complete!
